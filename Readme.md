@@ -1,2 +1,3 @@
 # bitcoin-market-sentiment-analysis
-Data Science project analyzing Bitcoin market sentiment and trader performance using exploratory data analysis, statistical testing, and visualization.
+
+This repository's main documentation is in **README.md**. Please refer to that file for project details, setup instructions, and usage information.
